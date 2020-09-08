@@ -34,7 +34,7 @@ This project has been tested with python 3. It builds on yubico's implementation
 You need to install the requirements first:
 > pip install -r requirements.txt
 
-## start the demo
+### start the demo
 
 You may start the demp with the following command:
 > python demo_fido2_api.py
