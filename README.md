@@ -1,9 +1,9 @@
 # mock_fido2
-Demo of fido2 APIs without requiring a physical device
+Demo of fido2 APIs without requiring a physical device.
 
 ## what it does
 
-The project mocks a device and authenticates against a FIDO2 server.
+The project mocks a device and authenticates against a local FIDO2 server.
 
 ```
 def authenticate():
