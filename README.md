@@ -36,8 +36,10 @@ You need to install the requirements first:
 
 ### start the demo
 
-You may start the demp with the following command:
+You may start the demo with the following command:
 > python demo_fido2_api.py
+
+It will print out the steps for registration and authentication.
 
 
 
